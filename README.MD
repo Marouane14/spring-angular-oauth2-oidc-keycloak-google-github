@@ -1,0 +1,80 @@
+<img src="customer-front-thymleaf-app/screenshots/1.PNG">
+<img src="customer-front-thymleaf-app/screenshots/2.PNG">
+<img src="customer-front-thymleaf-app/screenshots/3.PNG">
+<img src="customer-front-thymleaf-app/screenshots/4.PNG">
+<img src="customer-front-thymleaf-app/screenshots/5.PNG">
+<img src="customer-front-thymleaf-app/screenshots/6.PNG">
+<img src="customer-front-thymleaf-app/screenshots/7.PNG">
+<img src="customer-front-thymleaf-app/screenshots/8.PNG">
+<img src="customer-front-thymleaf-app/screenshots/9.PNG">
+<img src="customer-front-thymleaf-app/screenshots/10.PNG">
+
+<img src="customer-front-thymleaf-app/screenshots/11.PNG">
+<img src="customer-front-thymleaf-app/screenshots/12.PNG">
+<img src="customer-front-thymleaf-app/screenshots/13.PNG">
+<img src="customer-front-thymleaf-app/screenshots/14.PNG">
+<img src="customer-front-thymleaf-app/screenshots/15.PNG">
+<img src="customer-front-thymleaf-app/screenshots/16.PNG">
+<img src="customer-front-thymleaf-app/screenshots/17.PNG">
+<img src="customer-front-thymleaf-app/screenshots/18.PNG">
+<img src="customer-front-thymleaf-app/screenshots/19.PNG">
+<img src="customer-front-thymleaf-app/screenshots/20.PNG">
+
+<img src="customer-front-thymleaf-app/screenshots/21.PNG">
+<img src="customer-front-thymleaf-app/screenshots/22.PNG">
+<img src="customer-front-thymleaf-app/screenshots/23.PNG">
+<img src="customer-front-thymleaf-app/screenshots/24.PNG">
+<img src="customer-front-thymleaf-app/screenshots/25.PNG">
+<img src="customer-front-thymleaf-app/screenshots/26.PNG">
+<img src="customer-front-thymleaf-app/screenshots/27.PNG">
+<img src="customer-front-thymleaf-app/screenshots/28.PNG">
+<img src="customer-front-thymleaf-app/screenshots/29.PNG">
+<img src="customer-front-thymleaf-app/screenshots/30.PNG">
+
+<img src="customer-front-thymleaf-app/screenshots/31.PNG">
+<img src="customer-front-thymleaf-app/screenshots/32.PNG">
+<img src="customer-front-thymleaf-app/screenshots/33.PNG">
+<img src="customer-front-thymleaf-app/screenshots/34.PNG">
+<img src="customer-front-thymleaf-app/screenshots/35.PNG">
+<img src="customer-front-thymleaf-app/screenshots/36.PNG">
+<img src="customer-front-thymleaf-app/screenshots/37.PNG">
+<img src="customer-front-thymleaf-app/screenshots/38.PNG">
+<img src="customer-front-thymleaf-app/screenshots/39.PNG">
+<img src="customer-front-thymleaf-app/screenshots/40.PNG">
+
+<img src="customer-front-thymleaf-app/screenshots/41.PNG">
+<img src="customer-front-thymleaf-app/screenshots/42.PNG">
+<img src="customer-front-thymleaf-app/screenshots/43.PNG">
+<img src="customer-front-thymleaf-app/screenshots/44.PNG">
+<img src="customer-front-thymleaf-app/screenshots/45.PNG">
+<img src="customer-front-thymleaf-app/screenshots/46.PNG">
+<img src="customer-front-thymleaf-app/screenshots/47.PNG">
+<img src="customer-front-thymleaf-app/screenshots/48.PNG">
+<img src="customer-front-thymleaf-app/screenshots/49.PNG">
+<img src="customer-front-thymleaf-app/screenshots/50.PNG">
+
+<img src="customer-front-thymleaf-app/screenshots/51.PNG">
+<img src="customer-front-thymleaf-app/screenshots/52.PNG">
+<img src="customer-front-thymleaf-app/screenshots/53.PNG">
+<img src="customer-front-thymleaf-app/screenshots/54.PNG">
+<img src="customer-front-thymleaf-app/screenshots/55.PNG">
+<img src="customer-front-thymleaf-app/screenshots/56.PNG">
+<img src="customer-front-thymleaf-app/screenshots/57.PNG">
+<img src="customer-front-thymleaf-app/screenshots/58.PNG">
+<img src="customer-front-thymleaf-app/screenshots/59.PNG">
+<img src="customer-front-thymleaf-app/screenshots/60.PNG">
+
+<img src="customer-front-thymleaf-app/screenshots/61.PNG">
+<img src="customer-front-thymleaf-app/screenshots/62.PNG">
+<img src="customer-front-thymleaf-app/screenshots/63.PNG">
+<img src="customer-front-thymleaf-app/screenshots/64.PNG">
+<img src="customer-front-thymleaf-app/screenshots/65.PNG">
+<img src="customer-front-thymleaf-app/screenshots/66.PNG">
+<img src="customer-front-thymleaf-app/screenshots/67.PNG">
+<img src="customer-front-thymleaf-app/screenshots/68.PNG">
+<img src="customer-front-thymleaf-app/screenshots/69.PNG">
+<img src="customer-front-thymleaf-app/screenshots/70.PNG">
+
+<img src="customer-front-thymleaf-app/screenshots/71.PNG">
+<img src="customer-front-thymleaf-app/screenshots/72.PNG">
+
