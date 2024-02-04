@@ -77,4 +77,15 @@
 
 <img src="customer-front-thymleaf-app/screenshots/71.PNG">
 <img src="customer-front-thymleaf-app/screenshots/72.PNG">
+<img src="customer-front-thymleaf-app/screenshots/73.PNG">
+<img src="customer-front-thymleaf-app/screenshots/74.PNG">
+<img src="customer-front-thymleaf-app/screenshots/75.PNG">
+<img src="customer-front-thymleaf-app/screenshots/76.PNG">
+<img src="customer-front-thymleaf-app/screenshots/77.PNG">
+<img src="customer-front-thymleaf-app/screenshots/78.PNG">
+<img src="customer-front-thymleaf-app/screenshots/79.PNG">
+<img src="customer-front-thymleaf-app/screenshots/80.PNG">
 
+<img src="customer-front-thymleaf-app/screenshots/81.PNG">
+<img src="customer-front-thymleaf-app/screenshots/82.PNG">
+<img src="customer-front-thymleaf-app/screenshots/83.PNG">
