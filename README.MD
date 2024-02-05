@@ -89,3 +89,5 @@
 <img src="customer-front-thymleaf-app/screenshots/81.PNG">
 <img src="customer-front-thymleaf-app/screenshots/82.PNG">
 <img src="customer-front-thymleaf-app/screenshots/83.PNG">
+<img src="customer-front-thymleaf-app/screenshots/84.PNG">
+<img src="customer-front-thymleaf-app/screenshots/85.PNG">
