@@ -13,7 +13,7 @@
           <a class="nav-link" routerLink="/customers">Customers</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" routerLink="/products">Products</a>
+          <a class="nav-link" routerLink="/products" *ngIf="keycloakService.getUserRoles().includes('ADMIN')">Products</a>
         </li>
 
       </ul>
